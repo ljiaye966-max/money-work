@@ -203,8 +203,8 @@ longbridge auth login
 
 ```bash
 # 克隆并安装
-git clone https://github.com/helsome/folio.git
-cd folio
+git clone https://github.com/ljiaye966-max/money-work.git
+cd money-work
 bun install
 
 # 以开发模式运行桌面应用

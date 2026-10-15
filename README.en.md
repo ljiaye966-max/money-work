@@ -177,8 +177,8 @@ Prerequisites: [Bun](https://bun.sh), the [Longbridge CLI](https://open.longbrid
 
 ```bash
 # Clone and install
-git clone https://github.com/helsome/folio.git
-cd folio
+git clone https://github.com/ljiaye966-max/money-work.git
+cd money-work
 bun install
 
 # Run the desktop app in development
